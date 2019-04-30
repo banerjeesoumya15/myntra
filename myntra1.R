@@ -1,5 +1,3 @@
-#https://www.r-bloggers.com/image-recognition-tutorial-in-r-using-deep-convolutional-neural-networks-mxnet-package/
-
 
 getwd() 
 setwd("C:/Users/soumya.banerjee01/Documents/R/myntra") 
